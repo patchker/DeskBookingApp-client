@@ -1,0 +1,52 @@
+.pin-confirm-overlay {
+    display: flex;
+    flex-direction: column; /* zmienione z 'column' na 'row' */
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* zwiększona wartość, aby utworzyć więcej odstępu między polami */
+  }
+  .close-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: none;
+    border: 1px solid black;
+    font-size: 2rem;
+    color: black;
+    cursor: pointer;
+  }
+  .input-field {
+    width: 60px; /* zmniejszona szerokość, aby pasowała do pojedynczej cyfry */
+    height: 45px;
+    padding: 10px;
+    margin:5px;
+    border: 1px solid black;
+    border-radius: 7px;
+    text-align: center; /* dodane, aby cyfry były wyśrodkowane */
+    font-size: 25px;
+    outline: none; /* usuwa domyślne podświetlenie focus */
+    caret-color: transparent; /* czyni kursor niewidocznym */
+  }
+  .input-field:focus {
+    border-color: #4caf50; /* dodaje zielone podświetlenie do pola z fokusem */
+    box-shadow: 0 0 5px #4caf50; /* dodaje subtelne zielone podświetlenie dookoła pola z fokusem */
+  }
+  .submit-button {
+    width: 150px;
+    height: 67px;
+    margin-left: 20px; /* dodane, aby utworzyć odstęp między polami PIN a przyciskiem */
+    color: white;
+    background-color: #4caf50;
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  .input-container
+  {
+  }

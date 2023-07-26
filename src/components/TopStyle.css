@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Light.ttf);
+  }
+.top {
+    font-family: Poppins;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 200px;
+    background-color: #e9ecef;
+    color: black;
+    padding: 0 20px;
+    width: 100%;
+    
+  }
+  
+  .title-text {
+    display: flex;
+    flex-direction: column; /* dodane */
+    line-height: 0;
+    align-items: center; /* dodane */
+
+  }
+  
+  .logo {
+    width: 57px;
+    margin-right: 40px; 
+  }
+  

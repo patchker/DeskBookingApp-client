@@ -1,0 +1,14 @@
+.confirmation-container {
+
+    z-index: 1000;  
+    position: fixed;
+    top: 26%;
+    bottom: 30%;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

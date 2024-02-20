@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+<h1>Desk and Parking Reservation App</h1>
+The Desk and Parking Reservation App revolutionizes how individuals reserve workspace and parking areas within their workplace. Designed to address the common challenges of booking desks and parking spots, this application offers an efficient and user-friendly solution that enhances workplace management and employee satisfaction. With features tailored to both users and administrators, the app ensures a seamless reservation process, fostering a more organized and accessible work environment.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>Key Features</h3>
+<b>Intuitive Booking System</b: Users can effortlessly reserve their preferred desk spaces and parking spots through a simple and intuitive interface, making the process quick and hassle-free.
 
-## Available Scripts
+<b>QR Code Reservations</b: Enhancing convenience, the app supports desk reservations through QR codes. Users can simply scan a QR code to book spaces, ideal for on-the-go reservations without the need to access the app directly.
 
-In the project directory, you can run:
+<b>Administrator Panel</b: A comprehensive administrator panel allows for the efficient management of bookings, users, and available resources. This feature provides administrators with the tools needed to oversee workspace allocations and adjustments smoothly.
 
-### `npm start`
+<b>User-Friendly Interface</b: Designed with user experience in mind, the application boasts a clean and straightforward interface, ensuring that users of all technical levels can navigate and make reservations without difficulties.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>Technology Stack</h3>
+<b>Initial Design in Node.js</b>: The application was initially developed using Node.js, leveraging its asynchronous event-driven JavaScript runtime to build scalable network applications.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<b>Rewritten in PHP</b>: Due to deployment limitations and the need for a more streamlined server-side solution, the application was subsequently rewritten in PHP. This transition allowed for greater flexibility and compatibility with various hosting environments, ensuring a robust and reliable performance.

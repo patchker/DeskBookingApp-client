@@ -1,6 +1,8 @@
 <h1>Desk and Parking Reservation App</h1>
 The Desk and Parking Reservation App revolutionizes how individuals reserve workspace and parking areas within their workplace. Designed to address the common challenges of booking desks and parking spots, this application offers an efficient and user-friendly solution that enhances workplace management and employee satisfaction. With features tailored to both users and administrators, the app ensures a seamless reservation process, fostering a more organized and accessible work environment.
 
+<img src="deskbookingapp.png">
+
 <h3>Key Features</h3>
 <b>Intuitive Booking System</b: Users can effortlessly reserve their preferred desk spaces and parking spots through a simple and intuitive interface, making the process quick and hassle-free.
 
